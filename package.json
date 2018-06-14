@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Tsigie/Code_Assignment/issues"
   },
-  "homepage": "https://github.com/Tsigie/Code_Assignment#readme"
+  "homepage": "https://github.com/Tsigie/Code_Assignment#readme",
+  "devDependencies": {
+    "angular-ui-bootstrap": "^2.5.6"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
